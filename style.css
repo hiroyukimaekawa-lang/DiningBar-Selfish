@@ -214,7 +214,7 @@ header {
     max-width: 900px;
     margin: 0 auto;
     text-align: left;
-    padding: 0 6vw;
+    padding: 0;
 }
 
 .hero-eyebrow {
